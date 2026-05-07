@@ -3,18 +3,20 @@ public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
 
-        vector<vector<int>> dp(n, vector<int>(n, 1e9));
+        vector<int> prev(n);
 
-        for(int j=0; j<n; j++) dp[n-1][j] = triangle[n-1][j];
+        for(int j=0; j<n; j++) prev[j] = triangle[n-1][j];
 
         for(int i=n-2; i>=0; i--){
+                vector<int> curr(n);
             for(int j=i; j>=0; j--){
-                    dp[i][j] = min (
-                    triangle[i][j] + dp[i+1][j],
-                    triangle[i][j] + dp[i+1][j+1]
+                    curr[j] = min (
+                    triangle[i][j] + prev[j],
+                    triangle[i][j] + prev[j+1]
                 );
             }
+            prev = curr;
         }
-       return dp[0][0];
+       return prev[0];
     }
 };
