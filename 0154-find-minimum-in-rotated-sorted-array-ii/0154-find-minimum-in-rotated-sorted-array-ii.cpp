@@ -1,27 +1,34 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
+        int low=0 , high=nums.size()-1;
+        int ans=INT_MAX;
+        while(low <= high)
+        {
+            int mid = (low+high)/2;
+            ans = min(ans,nums[mid]);
 
-        int s = 0, e = nums.size() - 1;
-        int ans = INT_MAX;
-
-        while (s <= e) {
-
-            int mid = s + (e - s) / 2;
-
-            ans = min(ans, nums[mid]);
-
-            if (nums[mid] > nums[e]) {
-                s = mid + 1;
+            // Condition 1: Handling the duplicate smokescreen
+            if(nums[low] == nums[mid] && nums[high] == nums[mid])
+            {
+                low++;
+                high--;
             }
-            else if (nums[mid] < nums[e]) {
-                e = mid - 1;
+
+            // Condition 2: Left half is strictly sorted
+            else if(nums[low] <= nums[mid])
+            {
+                ans=min(nums[low],ans);
+                low=mid+1;// Move to right half
             }
-            else {
-                e--;
+
+            // Condition 3: Right half is strictly sorted
+            else
+            {
+                ans=min(nums[mid],ans);
+                high=mid-1;// Move to left half
             }
         }
-
         return ans;
     }
 };
