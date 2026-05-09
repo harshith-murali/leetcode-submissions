@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0875-koko-eating-bananas](https://github.com/harshith-murali/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1463-cherry-pickup-ii) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0875-koko-eating-bananas](https://github.com/harshith-murali/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
