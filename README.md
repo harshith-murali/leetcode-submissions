@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0875-koko-eating-bananas](https://github.com/harshith-murali/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0120-triangle) |
+| [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1463-cherry-pickup-ii) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/harshith-murali/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshith-murali/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshith-murali/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -63,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshith-murali/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
