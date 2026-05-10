@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshith-murali/leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1463-cherry-pickup-ii) |
 ## Binary Search
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/harshith-murali/leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/harshith-murali/leetcode-submissions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
