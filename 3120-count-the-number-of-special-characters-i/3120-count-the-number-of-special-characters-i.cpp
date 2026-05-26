@@ -10,10 +10,14 @@ public:
             else{
                 lower |= (1 << (ch-'a'));
             }
-
         }
 
         int common = lower & upper;
-        return __builtin_popcount(lower & upper);
+        int cnt = 0;
+        while(common){
+            cnt += (common & 1);
+            common >>= 1;
+        }
+        return cnt;
     }
 };
