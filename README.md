@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/harshith-murali/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/harshith-murali/leetcode-submissions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/harshith-murali/leetcode-submissions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/harshith-murali/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0090-subsets-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/harshith-murali/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshith-murali/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
