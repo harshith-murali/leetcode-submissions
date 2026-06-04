@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/harshith-murali/leetcode-submissions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshith-murali/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/harshith-murali/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshith-murali/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
