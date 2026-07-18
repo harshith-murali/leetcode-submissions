@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshith-murali/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshith-murali/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harshith-murali/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harshith-murali/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
 ## Counting
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/harshith-murali/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Indexed Tree
 |  |
 | ------- |
