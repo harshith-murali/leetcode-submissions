@@ -1,20 +1,13 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
+        int k = 0;
         for(int i=0; i<nums.size(); i++){
-            if(nums[i] == val){
-                nums[i] = INT_MAX;
+            if(nums[i] != val){
+                nums[k] = nums[i];
+                k++;
             }
         }
-        sort(nums.begin() , nums.end());
-        int startingMax = -1;
-        for(int i=0; i<nums.size(); i++){
-            if(nums[i] == INT_MAX){
-                startingMax = i;
-                break;
-            }
-        }
-        if(startingMax == -1) return nums.size();
-        return startingMax;
+        return k;
     }
 };
