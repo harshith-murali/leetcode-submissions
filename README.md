@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/harshith-murali/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/harshith-murali/leetcode-submissions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0120-triangle) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/harshith-murali/leetcode-submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/harshith-murali/leetcode-submissions/tree/master/0031-next-permutation) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshith-murali/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Indexed Tree
