@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/harshith-murali/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/harshith-murali/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/harshith-murali/leetcode-submissions/tree/master/0169-majority-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/harshith-murali/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/harshith-murali/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/harshith-murali/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/harshith-murali/leetcode-submissions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0189-rotate-array) |
