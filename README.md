@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/harshith-murali/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/harshith-murali/leetcode-submissions/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/harshith-murali/leetcode-submissions/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/harshith-murali/leetcode-submissions/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0141-linked-list-cycle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/harshith-murali/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
