@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/harshith-murali/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/harshith-murali/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/harshith-murali/leetcode-submissions/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -264,9 +265,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/harshith-murali/leetcode-submissions/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harshith-murali/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harshith-murali/leetcode-submissions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harshith-murali/leetcode-submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
