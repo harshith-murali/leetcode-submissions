@@ -50,10 +50,11 @@ public:
     }
 
     int get(int key) {
+        // miss
         if (mp.find(key) == mp.end()) {
             return -1;
         }
-
+        // hit
         Node* node = mp[key];
 
         removeNode(node);
@@ -63,6 +64,7 @@ public:
     }
 
     void put(int key, int value) {
+        // element found
         if (mp.find(key) != mp.end()) {
             Node* node = mp[key];
 
@@ -73,7 +75,7 @@ public:
 
             return;
         }
-
+        // capacity full
         if (mp.size() == capacity) {
             Node* lruNode = tail->prev;
 
@@ -81,7 +83,7 @@ public:
             mp.erase(lruNode->key);
             delete lruNode;
         }
-
+        // element missing
         Node* newNode = new Node(key, value);
 
         addToFront(newNode);
