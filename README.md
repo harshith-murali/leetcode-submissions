@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/harshith-murali/leetcode-submissions/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/harshith-murali/leetcode-submissions/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/harshith-murali/leetcode-submissions/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harshith-murali/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/harshith-murali/leetcode-submissions/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
