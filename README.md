@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0112-path-sum) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/harshith-murali/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshith-murali/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/harshith-murali/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/harshith-murali/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshith-murali/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
@@ -304,12 +306,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0112-path-sum) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0112-path-sum) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Counting Sort
 |  |
 | ------- |
