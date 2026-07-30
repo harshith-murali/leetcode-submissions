@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshith-murali/leetcode-submissions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshith-murali/leetcode-submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshith-murali/leetcode-submissions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshith-murali/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/harshith-murali/leetcode-submissions/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
