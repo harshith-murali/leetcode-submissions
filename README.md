@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/harshith-murali/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshith-murali/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/harshith-murali/leetcode-submissions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/harshith-murali/leetcode-submissions/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harshith-murali/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/harshith-murali/leetcode-submissions/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
 ## Design
 |  |
 | ------- |
@@ -367,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/harshith-murali/leetcode-submissions/tree/master/0149-max-points-on-a-line) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
