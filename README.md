@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0875-koko-eating-bananas](https://github.com/harshith-murali/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshith-murali/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshith-murali/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshith-murali/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/harshith-murali/leetcode-submissions/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -387,5 +390,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
