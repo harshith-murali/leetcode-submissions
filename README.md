@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0867-transpose-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/harshith-murali/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshith-murali/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
+| [0867-transpose-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1463-cherry-pickup-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/harshith-murali/leetcode-submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshith-murali/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
