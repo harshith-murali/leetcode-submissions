@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshith-murali/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
 | [2706-buy-two-chocolates](https://github.com/harshith-murali/leetcode-submissions/tree/master/2706-buy-two-chocolates) |
+| [3731-find-missing-elements](https://github.com/harshith-murali/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/harshith-murali/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/harshith-murali/leetcode-submissions/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/harshith-murali/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
