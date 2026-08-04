@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/harshith-murali/leetcode-submissions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/harshith-murali/leetcode-submissions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/harshith-murali/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshith-murali/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Indexed Tree
 |  |
