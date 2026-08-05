@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshith-murali/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshith-murali/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
+| [3310-remove-methods-from-project](https://github.com/harshith-murali/leetcode-submissions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/harshith-murali/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshith-murali/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
+| [3310-remove-methods-from-project](https://github.com/harshith-murali/leetcode-submissions/tree/master/3310-remove-methods-from-project) |
 ## Simulation
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/harshith-murali/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshith-murali/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
+| [3310-remove-methods-from-project](https://github.com/harshith-murali/leetcode-submissions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
