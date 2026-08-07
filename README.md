@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String Matching
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/harshith-murali/leetcode-submissions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/harshith-murali/leetcode-submissions/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/harshith-murali/leetcode-submissions/tree/master/0131-palindrome-partitioning) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -454,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
