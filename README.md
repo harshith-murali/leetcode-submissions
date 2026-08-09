@@ -466,4 +466,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
