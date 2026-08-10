@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshith-murali/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/harshith-murali/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshith-murali/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshith-murali/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshith-murali/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshith-murali/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Binary Tree
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshith-murali/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/harshith-murali/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshith-murali/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 ## Counting Sort
@@ -488,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
