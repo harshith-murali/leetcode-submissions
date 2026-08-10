@@ -1,36 +1,39 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    void solve(TreeNode* root , unordered_map<int,int>& mp){
-        if(root == nullptr) return ;
+    void inorder(TreeNode* root, TreeNode*& prev, int& currentFreq, int& maxFreq, vector<int>& result, bool isCollecting) {
+        if (!root) return;
 
-        mp[root->val]++;
-        solve(root->left , mp);
-        solve(root->right , mp);
+        inorder(root->left, prev, currentFreq, maxFreq, result, isCollecting);
+
+        if (prev != nullptr && prev->val == root->val) {
+            currentFreq++;
+        } else {
+            currentFreq = 1;
+        }
+
+        if (!isCollecting) {
+            maxFreq = max(maxFreq, currentFreq);
+        } else if (currentFreq == maxFreq) {
+            result.push_back(root->val);
+        }
+
+        prev = root;
+
+        inorder(root->right, prev, currentFreq, maxFreq, result, isCollecting);
     }
+
     vector<int> findMode(TreeNode* root) {
-        unordered_map<int,int> mp;
+        int currentFreq = 0, maxFreq = 0;
+        TreeNode* prev = nullptr;
         vector<int> result;
-        solve(root , mp);
-        int maxFreq = 0;
-        for(auto it : mp){
-            maxFreq = max(maxFreq , it.second);
-        }
-        for(auto it : mp){
-            if(it.second == maxFreq){
-                result.push_back(it.first);
-            }
-        }
+
+        inorder(root, prev, currentFreq, maxFreq, result, false);
+
+        prev = nullptr;
+        currentFreq = 0;
+
+        inorder(root, prev, currentFreq, maxFreq, result, true);
+
         return result;
     }
 };
