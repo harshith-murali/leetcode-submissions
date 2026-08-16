@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/harshith-murali/leetcode-submissions/tree/master/2706-buy-two-chocolates) |
 | [2963-count-the-number-of-good-partitions](https://github.com/harshith-murali/leetcode-submissions/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshith-murali/leetcode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/harshith-murali/leetcode-submissions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/harshith-murali/leetcode-submissions/tree/master/0389-find-the-difference) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshith-murali/leetcode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
 | ------- |
