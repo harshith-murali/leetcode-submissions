@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/harshith-murali/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harshith-murali/leetcode-submissions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1386-cinema-seat-allocation](https://github.com/harshith-murali/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/harshith-murali/leetcode-submissions/tree/master/1436-destination-city) |
 | [1463-cherry-pickup-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1463-cherry-pickup-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshith-murali/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harshith-murali/leetcode-submissions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1386-cinema-seat-allocation](https://github.com/harshith-murali/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/harshith-murali/leetcode-submissions/tree/master/1436-destination-city) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshith-murali/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harshith-murali/leetcode-submissions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1386-cinema-seat-allocation](https://github.com/harshith-murali/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2706-buy-two-chocolates](https://github.com/harshith-murali/leetcode-submissions/tree/master/2706-buy-two-chocolates) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/harshith-murali/leetcode-submissions/tree/master/0389-find-the-difference) |
+| [1386-cinema-seat-allocation](https://github.com/harshith-murali/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshith-murali/leetcode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
