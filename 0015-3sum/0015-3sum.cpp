@@ -25,7 +25,7 @@ public:
 
         sort(begin(nums) , end(nums));
 
-        for(int i=0; i<n; i++){
+        for(int i=0; i<n-2; i++){
             if(i>0&& nums[i] == nums[i-1]) continue;
 
             int n1 = nums[i];
