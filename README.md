@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshith-murali/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0623-add-one-row-to-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/harshith-murali/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshith-murali/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/harshith-murali/leetcode-submissions/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/harshith-murali/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
+| [0623-add-one-row-to-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/harshith-murali/leetcode-submissions/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/harshith-murali/leetcode-submissions/tree/master/0802-find-eventual-safe-states) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshith-murali/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0623-add-one-row-to-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/harshith-murali/leetcode-submissions/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshith-murali/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/harshith-murali/leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0623-add-one-row-to-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/harshith-murali/leetcode-submissions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/harshith-murali/leetcode-submissions/tree/master/0872-leaf-similar-trees) |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshith-murali/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
