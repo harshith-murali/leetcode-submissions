@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshith-murali/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshith-murali/leetcode-submissions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/harshith-murali/leetcode-submissions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1512-number-of-good-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshith-murali/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/harshith-murali/leetcode-submissions/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/harshith-murali/leetcode-submissions/tree/master/1436-destination-city) |
+| [1512-number-of-good-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshith-murali/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/harshith-murali/leetcode-submissions/tree/master/2963-count-the-number-of-good-partitions) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/harshith-murali/leetcode-submissions/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/harshith-murali/leetcode-submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2963-count-the-number-of-good-partitions](https://github.com/harshith-murali/leetcode-submissions/tree/master/2963-count-the-number-of-good-partitions) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshith-murali/leetcode-submissions/tree/master/0169-majority-element) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harshith-murali/leetcode-submissions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshith-murali/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
