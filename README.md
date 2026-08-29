@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/harshith-murali/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshith-murali/leetcode-submissions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/harshith-murali/leetcode-submissions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshith-murali/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0867-transpose-matrix) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/harshith-murali/leetcode-submissions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1688-count-of-matches-in-tournament](https://github.com/harshith-murali/leetcode-submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshith-murali/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
@@ -552,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/harshith-murali/leetcode-submissions/tree/master/1510-stone-game-iv) |
+## Brainteaser
+|  |
+| ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/harshith-murali/leetcode-submissions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
