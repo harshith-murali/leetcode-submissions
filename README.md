@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshith-murali/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/harshith-murali/leetcode-submissions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshith-murali/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harshith-murali/leetcode-submissions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harshith-murali/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/harshith-murali/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/harshith-murali/leetcode-submissions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshith-murali/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harshith-murali/leetcode-submissions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/harshith-murali/leetcode-submissions/tree/master/1207-unique-number-of-occurrences) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/harshith-murali/leetcode-submissions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1463-cherry-pickup-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1463-cherry-pickup-ii) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/harshith-murali/leetcode-submissions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Divide and Conquer
