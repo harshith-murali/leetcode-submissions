@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/harshith-murali/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/harshith-murali/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshith-murali/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/harshith-murali/leetcode-submissions/tree/master/0224-basic-calculator) |
+| [0739-daily-temperatures](https://github.com/harshith-murali/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
 ## Geometry
 |  |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshith-murali/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/harshith-murali/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
 ## Enumeration
 |  |
