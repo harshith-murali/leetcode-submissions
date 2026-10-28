@@ -1,7 +1,6 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int lb = lower_bound(nums.begin() , nums.end() , target) - nums.begin();
-        return lb;
+        return lower_bound(begin(nums),end(nums), target) - nums.begin();
     }
 };
