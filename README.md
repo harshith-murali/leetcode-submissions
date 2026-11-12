@@ -602,4 +602,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/harshith-murali/leetcode-submissions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/harshith-murali/leetcode-submissions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
