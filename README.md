@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/harshith-murali/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
+| [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/harshith-murali/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/harshith-murali/leetcode-submissions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1110-delete-nodes-and-return-forest](https://github.com/harshith-murali/leetcode-submissions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/harshith-murali/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/harshith-murali/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshith-murali/leetcode-submissions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshith-murali/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshith-murali/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshith-murali/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/harshith-murali/leetcode-submissions/tree/master/0149-max-points-on-a-line) |
+| [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Game Theory
 |  |
 | ------- |
@@ -577,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshith-murali/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshith-murali/leetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Stack
 |  |
@@ -635,4 +641,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshith-murali/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
