@@ -1,41 +1,51 @@
 class Solution {
 public:
     int calculate(string s) {
-        stack<int> st;
+        stack<long long> st;
 
-        long long number = 0;
-        long long result = 0;
-        int sign = 1;
+        long long num = 0;
+        long long res = 0;
+        long long sign = 1;
 
-        for(int i=0; i<s.length(); i++){
-            if(isdigit(s[i])){
-                number = number*10 + (s[i] - '0');
-            }else if(s[i] == '+'){
-                result += (number * sign);
-                number = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (isdigit(s[i])) {
+                num = num * 10 + (s[i] - '0');
+            }
+            else if (s[i] == '+') {
+                res += num * sign;
+                num = 0;
                 sign = 1;
-            }else if(s[i] == '-'){
-                result += (number * sign);
-                number = 0;
+            }
+            else if (s[i] == '-') {
+                res += num * sign;
+                num = 0;
                 sign = -1;
-            }else if(s[i] == '('){
-                st.push(result);
+            }
+            else if (s[i] == '(') {
+                st.push(res);
                 st.push(sign);
-                result = 0;
-                number = 0;
+
+                res = 0;
+                num = 0;
                 sign = 1;
-            }else if(s[i] == ')'){
-                result += (number * sign); // bracket
-                number = 0;
+            }
+            else if (s[i] == ')') {
+                res += num * sign;
+                num = 0;
 
-                int stack_sign = st.top(); st.pop();
-                int last_result = st.top(); st.pop();
+                long long stack_sign = st.top();
+                st.pop();
 
-                result *= stack_sign;
-                result += last_result;
+                long long last_res = st.top();
+                st.pop();
+
+                res *= stack_sign;
+                res += last_res;
             }
         }
-        result += (number * sign);
-        return result;
+
+        res += num * sign;
+
+        return (int)res;
     }
 };
