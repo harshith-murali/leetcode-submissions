@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/harshith-murali/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/harshith-murali/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/harshith-murali/leetcode-submissions/tree/master/0068-text-justification) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshith-murali/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshith-murali/leetcode-submissions/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/harshith-murali/leetcode-submissions/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/harshith-murali/leetcode-submissions/tree/master/0739-daily-temperatures) |
@@ -654,4 +656,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshith-murali/leetcode-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
