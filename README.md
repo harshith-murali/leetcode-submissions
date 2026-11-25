@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/harshith-murali/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/harshith-murali/leetcode-submissions/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/harshith-murali/leetcode-submissions/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/harshith-murali/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshith-murali/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshith-murali/leetcode-submissions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/harshith-murali/leetcode-submissions/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/harshith-murali/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
 ## Geometry
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshith-murali/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/harshith-murali/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
 ## Enumeration
