@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/harshith-murali/leetcode-submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/harshith-murali/leetcode-submissions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshith-murali/leetcode-submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/harshith-murali/leetcode-submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/harshith-murali/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
@@ -684,4 +686,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/harshith-murali/leetcode-submissions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/harshith-murali/leetcode-submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
