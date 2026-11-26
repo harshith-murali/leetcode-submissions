@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0542-01-matrix) |
+| [0605-can-place-flowers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/harshith-murali/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/harshith-murali/leetcode-submissions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/harshith-murali/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
