@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/harshith-murali/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/harshith-murali/leetcode-submissions/tree/master/0443-string-compression) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harshith-murali/leetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/harshith-murali/leetcode-submissions/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/harshith-murali/leetcode-submissions/tree/master/0486-predict-the-winner) |
 ## Design
 |  |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshith-murali/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshith-murali/leetcode-submissions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/harshith-murali/leetcode-submissions/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/harshith-murali/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
