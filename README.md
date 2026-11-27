@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/harshith-murali/leetcode-submissions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0334-increasing-triplet-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/harshith-murali/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/harshith-murali/leetcode-submissions/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/harshith-murali/leetcode-submissions/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0605-can-place-flowers) |
@@ -699,4 +701,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshith-murali/leetcode-submissions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
