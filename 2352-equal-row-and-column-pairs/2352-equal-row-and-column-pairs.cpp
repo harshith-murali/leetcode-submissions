@@ -2,21 +2,20 @@ class Solution {
 public:
     int equalPairs(vector<vector<int>>& grid) {
         int n = grid.size();
-        map<vector<int>, int> row_map;
+        map<vector<int>, int> mp;
         int count = 0;
 
         for (int r = 0; r < n; r++) {
-            row_map[grid[r]]++;
+            mp[grid[r]]++;
         }
 
         for (int c = 0; c < n; c++) {
-            vector<int> col(n);
-            for (int r = 0; r < n; r++) {
-                col[r] = grid[r][c];
+            vector<int> temp;
+
+            for(int r = 0; r < n; r++){
+                temp.push_back(grid[r][c]);
             }
-            if (row_map.find(col) != row_map.end()) {
-                count += row_map[col];
-            }
+            count += mp[temp];
         }
 
         return count;
