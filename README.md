@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/harshith-murali/leetcode-submissions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshith-murali/leetcode-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/harshith-murali/leetcode-submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/harshith-murali/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/harshith-murali/leetcode-submissions/tree/master/0867-transpose-matrix) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshith-murali/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Combinatorics
