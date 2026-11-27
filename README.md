@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/harshith-murali/leetcode-submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/harshith-murali/leetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/harshith-murali/leetcode-submissions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshith-murali/leetcode-submissions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/harshith-murali/leetcode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/harshith-murali/leetcode-submissions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/harshith-murali/leetcode-submissions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
@@ -765,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/harshith-murali/leetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
