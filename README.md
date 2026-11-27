@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/harshith-murali/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshith-murali/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshith-murali/leetcode-submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/harshith-murali/leetcode-submissions/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshith-murali/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/harshith-murali/leetcode-submissions/tree/master/2596-check-knight-tour-configuration) |
 ## Counting
 |  |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/harshith-murali/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
+| [2390-removing-stars-from-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Geometry
 |  |
 | ------- |
