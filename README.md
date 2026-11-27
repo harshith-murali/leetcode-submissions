@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/harshith-murali/leetcode-submissions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/harshith-murali/leetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/harshith-murali/leetcode-submissions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshith-murali/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/harshith-murali/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/harshith-murali/leetcode-submissions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/harshith-murali/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
