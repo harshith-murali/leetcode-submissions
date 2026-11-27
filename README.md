@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/harshith-murali/leetcode-submissions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1512-number-of-good-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshith-murali/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/harshith-murali/leetcode-submissions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshith-murali/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2352-equal-row-and-column-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/2352-equal-row-and-column-pairs) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshith-murali/leetcode-submissions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/harshith-murali/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/harshith-murali/leetcode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/harshith-murali/leetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0962-maximum-width-ramp](https://github.com/harshith-murali/leetcode-submissions/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/harshith-murali/leetcode-submissions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/harshith-murali/leetcode-submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/harshith-murali/leetcode-submissions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/harshith-murali/leetcode-submissions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/harshith-murali/leetcode-submissions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
