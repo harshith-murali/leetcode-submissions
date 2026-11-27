@@ -1,13 +1,27 @@
 class Solution {
 public:
     bool isSubsequence(string s, string t) {
-        int i = 0, j = 0;
-        while (i < s.length() && j < t.length()) {
-            if (s[i] == t[j]) {
-                i++;
-            }
-            j++;
+        unordered_map<char, vector<int>> mp;
+        for (int i = 0; i < t.size(); i++) {
+            mp[t[i]].push_back(i);
         }
-        return i == s.length();
+
+        int prev = -1;
+        for (char ch : s) {
+            if (mp.find(ch) == mp.end()) {
+                return false;
+            }
+
+            const vector<int>& indices = mp[ch];
+            auto it = upper_bound(indices.begin(), indices.end(), prev);
+
+            if (it == indices.end()) {
+                return false;
+            }
+
+            prev = *it;
+        }
+
+        return true;
     }
 };
