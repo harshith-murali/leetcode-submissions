@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/harshith-murali/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harshith-murali/leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/harshith-murali/leetcode-submissions/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/harshith-murali/leetcode-submissions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/harshith-murali/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
