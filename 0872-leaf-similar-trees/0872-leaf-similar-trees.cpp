@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root , string & s){
+    void inorder(TreeNode* root, string& s){
         if(!root) return;
 
-        if(root->left == NULL && root->right == NULL){
-            s += to_string(root->val) + "_";
+        if(!root->left && !root->right){
+            s += to_string(root->val) + ",";
             return;
         }
-        inorder(root->left , s);
-        inorder(root->right,s);
 
+        inorder(root->left, s);
+        inorder(root->right, s);
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
         string s1 = "";
